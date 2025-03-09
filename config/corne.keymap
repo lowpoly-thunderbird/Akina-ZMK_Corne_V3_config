@@ -23,7 +23,7 @@
 
         alttab {
             bindings = <&kp LA(TAB)>;
-            key-positions = <38 12>;
+            key-positions = <12 37>;
         };
     };
 
